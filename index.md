@@ -17,6 +17,10 @@ All information about the course will be posted here.
 
 ## News
 * **Aug 27** - Welcome back!
+* **Sept 12** - Exam 1 Part 1 Discussion
+* **Sept 17 - Exam 1 Part 1 Due** upload a .pdf to Marmoset by 12:30pm
+* **Sept 19 - Exam 1 Part 1b Due** in class
+
 
 
 <!--
