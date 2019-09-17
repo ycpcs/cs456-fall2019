@@ -21,12 +21,10 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Sept 10 | IP - Patents        | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Disgorging Profits in Design Patent Cases*, Pamela Samuelson (ACM - 11/17) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
 > Sept 12 | **EXAM I PART I Discussion**   |  | 
 > Sept 17 | **EXAM I PART I Writeup**      |  | 
+> Sept 19 | Privacy - I         | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy is Dead, Long Live Privacy*, Jean-Pierre Hubaux and Ari Juels (ACM - 6/16) <br /> *When Does Law Enforcement's Demand to Read Your Data Become a Demand to Read Your Mind?*, Andrew Conway and Peter Eckersley (ACM - 9/17) | 
 
 
 <!--
-> Feb 7 | IP - Patents        | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Disgorging Profits in Design Patent Cases*, Pamela Samuelson (ACM - 11/17) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
-> Feb 12 | **EXAM I PART I Discussion**   |  | 
-> Feb 14 | **EXAM I PART I Writeup**   |  | 
 > Feb 19 | Privacy - I         | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy is Dead, Long Live Privacy*, Jean-Pierre Hubaux and Ari Juels (ACM - 6/16) <br /> *When Does Law Enforcement's Demand to Read Your Data Become a Demand to Read Your Mind?*, Andrew Conway and Peter Eckersley (ACM - 9/17) | 
 > Feb 21 | Privacy - II        | *Can You Engineer Privacy?*, Seda Gurses (ACM - 8/14) <br /> *More Encryption Means Less Privacy*, Poul-Henning Kamp (ACM - 4/16) <br /> *Welcome to the Singularity*, David Allen Batchelor (ACM - 2/18) | 
 > Feb 26 | Security - I        |  *Privacy and Security: Summing Up*, Susan Landau (ACM - 11/14) <br /> *Cyber Insecurity and Cyber Libertarianism*, Moshe Y. Vardi (ACM - 5/17)|
