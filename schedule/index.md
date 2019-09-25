@@ -23,11 +23,10 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Sept 17 | **EXAM I PART I Writeup**      |  | 
 > Sept 19 | Privacy - I         | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy is Dead, Long Live Privacy*, Jean-Pierre Hubaux and Ari Juels (ACM - 6/16) <br /> *When Does Law Enforcement's Demand to Read Your Data Become a Demand to Read Your Mind?*, Andrew Conway and Peter Eckersley (ACM - 9/17) | 
 > Sept 24 | Privacy - II        | *Weighing the Impact of GDPR*, Samuel Greengard (ACM - 11/18) <br /> *More Encryption Means Less Privacy*, Poul-Henning Kamp (ACM - 4/16) <br /> *Welcome to the Singularity*, David Allen Batchelor (ACM - 2/18) | 
+> Sept 26 | Security - I        | *Cyber Insecurity and Cyber Libertarianism*, Moshe Y. Vardi (ACM - 5/17) <br /> *Deep Insecurities: The Internet of Things Shifts Technology Risk*, Samuel Greengard (ACM - 5/19)|
 
 
 <!--
-> Feb 19 | Privacy - I         | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy is Dead, Long Live Privacy*, Jean-Pierre Hubaux and Ari Juels (ACM - 6/16) <br /> *When Does Law Enforcement's Demand to Read Your Data Become a Demand to Read Your Mind?*, Andrew Conway and Peter Eckersley (ACM - 9/17) | 
-> Feb 21 | Privacy - II        | *Can You Engineer Privacy?*, Seda Gurses (ACM - 8/14) <br /> *More Encryption Means Less Privacy*, Poul-Henning Kamp (ACM - 4/16) <br /> *Welcome to the Singularity*, David Allen Batchelor (ACM - 2/18) | 
 > Feb 26 | Security - I        |  *Privacy and Security: Summing Up*, Susan Landau (ACM - 11/14) <br /> *Cyber Insecurity and Cyber Libertarianism*, Moshe Y. Vardi (ACM - 5/17)|
 > Feb 28 | Security - II       | *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) **NOTE: This is the Dec 2015 article** <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *Trustworthiness and Truthfulness Are Essential*, Peter G. Neumann (ACM - 6/17) <br /> *IoT: The Internet of Terror*, George V. Neville-Neil (ACM - 10/17)|  
 > Mar 5  | **NO CLASS - WINTER BREAK** | |  
