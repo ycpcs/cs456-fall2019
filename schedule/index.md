@@ -25,13 +25,9 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Sept 24 | Privacy - II        | *Weighing the Impact of GDPR*, Samuel Greengard (ACM - 11/18) <br /> *More Encryption Means Less Privacy*, Poul-Henning Kamp (ACM - 4/16) <br /> *Welcome to the Singularity*, David Allen Batchelor (ACM - 2/18) | 
 > Sept 26 | Security - I        | *Cyber Insecurity and Cyber Libertarianism*, Moshe Y. Vardi (ACM - 5/17) <br /> *Deep Insecurities: The Internet of Things Shifts Technology Risk*, Samuel Greengard (ACM - 5/19)|
 > Oct 1   | Security - II       | *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) **NOTE: This is the Dec 2015 article** <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *Encryption and Surveillance*, Joan Feigenbaum (ACM - 5/19) <br /> *IoT: The Internet of Terror*, George V. Neville-Neil (ACM - 10/17)|  
-
+> Oct 3   | Internet Free Speech | *Continuity and Change in Internet Law*, James Grimmelmann (ACM - 5/19) <br /> *A Response to Fake News as a Response to Citizens United*, Marshall W. Van Alstyne (ACM - 8/19) |
 
 <!--
-> Feb 26 | Security - I        |  *Privacy and Security: Summing Up*, Susan Landau (ACM - 11/14) <br /> *Cyber Insecurity and Cyber Libertarianism*, Moshe Y. Vardi (ACM - 5/17)|
-> Feb 28 | Security - II       | *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) **NOTE: This is the Dec 2015 article** <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *Trustworthiness and Truthfulness Are Essential*, Peter G. Neumann (ACM - 6/17) <br /> *IoT: The Internet of Terror*, George V. Neville-Neil (ACM - 10/17)|  
-> Mar 5  | **NO CLASS - WINTER BREAK** | |  
-> Mar 7  | **NO CLASS - WINTER BREAK** | |  
 > Mar 12 | Individual          | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Portable Device Fears Show Power of Social Development*, Chris Edwards (ACM - 10/17) |  
 > Mar 14 | Society             | *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Smartphone Apps for Social Good*, Logan Kugler (ACM - 8/16)  <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17) |  
 > Mar 19 | **EXAM I PART II Discussion**  | |
