@@ -18,9 +18,14 @@ All information about the course will be posted here.
 ## News
 * **Aug 27** - Welcome back!
 * **Sept 12** - Exam 1 Part 1 Discussion
-* **Sept 17 - Exam 1 Part 1 Due** upload a .pdf to Marmoset by 12:30pm
+* **Sept 17 - Exam 1 Part 1 Due** upload a .pdf to [Marmoset](https://cs.ycp.edu/marmoset/login) by 11:00am
 * **Sept 19 - Exam 1 Part 1b Due** in class
-
+* **Oct 17** - Exam 1 Part 2 Discussion
+* **Oct 22 - Exam 1 Part 2 Due** upload a .pdf to [Marmoset](https://cs.ycp.edu/marmoset/login) by 11:00am
+* **Dec 3** - Exam 2 Discussion
+* **Dec 10 - Exam 2 Due** upload a .pdf to [Marmoset](https://cs.ycp.edu/marmoset/login) by 11:00am
+* **Dec 17 - Final Report Due** upload a .pdf to [Marmoset](https://cs.ycp.edu/marmoset/login) by 11:59pm
+ 
 
 
 <!--
