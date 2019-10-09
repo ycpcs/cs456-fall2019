@@ -27,7 +27,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 1   | Security - II       | *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) **NOTE: This is the Dec 2015 article** <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *Encryption and Surveillance*, Joan Feigenbaum (ACM - 5/19) <br /> *IoT: The Internet of Terror*, George V. Neville-Neil (ACM - 10/17)|  
 > Oct 3   | Internet Free Speech | *Continuity and Change in Internet Law*, James Grimmelmann (ACM - 5/19) <br /> *A Response to Fake News as a Response to Citizens United*, Marshall W. Van Alstyne (ACM - 8/19) |
 > Oct 8   | Individual Impact    | *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Potential ‘Dark Sides’ of Leisure Technology Use in Youth*, Ofir Turel (ACM - 3/19)|
-> Oct 10  | Societal Impact      | |
+> Oct 10  | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
 > Oct 15  | **NO CLASS - FALL BREAK** | |
 > Oct 17  | **EXAM I PART II Discussion** | |
 > Oct 22  | **EXAM I PART II Writeup**    | |
