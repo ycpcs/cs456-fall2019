@@ -31,7 +31,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 15  | **NO CLASS - FALL BREAK** | |
 > Oct 17  | **EXAM I PART II Discussion** | |
 > Oct 22  | **EXAM I PART II Writeup**    | |
-> Oct 24  | Brandon Miller | |
+> Oct 24  | Brandon Miller <br /> *Censorship* | [Samizdat](https://en.wikipedia.org/wiki/Samizdat) <br /> [Streisand Effect](https://en.wikipedia.org/wiki/Streisand_effect) <br /> [What Constitutes a Public Forum on Social Media?](https://www.americanbar.org/groups/crsj/publications/human_rights_magazine_home/the-ongoing-challenge-to-define-free-speech/public-forum-social-media/) <br /> [PragerU's Lawsuit Against Google Seeks To Rewrite the First Amendment](https://reason.com/2019/09/02/pragerus-lawsuit-against-google-seeks-to-rewrite-the-first-amendment/) <br /> [PragerU Takes Legal Action Against Google and YouTube for Discrimination](https://www.prageru.com/press-release/prageru-takes-legal-action-against-google-and-youtube-for-discrimination/) <br /> [Censored in America - John Stossel](https://www.youtube.com/watch?v=iS2lcZjcLnU&feature=youtu.be) <br /> [Glenn Beck vs Big Tech - John Stossel](https://www.youtube.com/watch?v=ka1cxyAXBXM&feature=youtu.be) |
 > Oct 29  | Duncan Smucker | |
 > Oct 31  | Sam Kiser      | |
 > Nov 5   | Jason Constantine | |
