@@ -43,7 +43,8 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Nov 26  | Christian DeShong <br /> *Workplace surveillance* | *E-Monitoring in the Workplace: PRIVACY, LEGISLATION, AND SURVEILLANCE SOFTWARE.*, G. Daryl Nord, Tipton F. McCubbins, and Jeretta Horn Nord (ACM - 8/06, use Academic Search Complete) <br /> [Workplace Privacy and Employee Monitoring](https://privacyrights.org/consumer-guides/workplace-privacy-and-employee-monitoring) <br /> [Surveillance at Work](https://www.workplacefairness.org/workplace-surveillance) |
 > Nov 28  | **NO CLASS - THANKSGIVING BREAK** | |
 > Dec 3   | **EXAM II Discussion** | |
-> Dec 5   | **EXAM II Writeup**    | |
+> Dec 5   | **EXAM II Writeup Period**    | |
+> Dec 10  | **EXAM II Due**        | |
 > Dec 17  | **Final Paper Due**    | |
 
 
